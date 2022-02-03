@@ -21,7 +21,7 @@ Code for the AISTATS 2022 paper titled "Being a Bit Frequentist Improves Bayesia
 ## Citing the paper:
 
 ```
-@inproceedings{kristiadi2021being,
+@inproceedings{kristiadi2022frequentist,
   title={Being a Bit Frequentist Improves {B}ayesian Neural Networks},
   author={Kristiadi, Agustinus and Hein, Matthias and Hennig, Philipp},
   booktitle={AISTATS},
